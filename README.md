@@ -1,4 +1,4 @@
-# **Nave espacial Disputa entre Chimpasini Bananini 🍌🐒 y Din din din dun ma din din din dun 🍊💪🏻**
+# **Nave espacial, disputa entre Chimpasini Bananini 🍌🐒 y Din din din dun ma din din din dun 🍊💪🏻**
 Pyton y Pygame se unen para dar paso a una batalla entre Chimpansini Banini y din din din dun ma din din din dun 
 
 > ## **Consideraciones** 💻
