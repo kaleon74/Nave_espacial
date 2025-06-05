@@ -12,8 +12,8 @@ Instalar modulos y librerias necesarias
 * **Instalar pygame** <br>
 pip install pygame <br>
 
-> ## **Construccion del archivo en Docker 🐋 **
-* **Construccion del requeriements** <br>
+> ## Construccion del archivo en Docker 🐋
+* **Construccion del requeriements**
 pip freeze > requirements.txt
 *  **Construir imagen Docker**
 docker build --no-cache -t chimpanzini .
