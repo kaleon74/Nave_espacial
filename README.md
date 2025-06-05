@@ -12,4 +12,16 @@ Instalar modulos y librerias necesarias
 * **Instalar pygame** <br>
 pip install pygame <br>
 
+> ## **Construccion del archivo en Docker 🐋 **
+* **Construccion del requeriements** <br>
+pip freeze > requirements.txt
+*  **Construir imagen Docker**
+docker build --no-cache -t chimpanzini .
+* **Desplegar contenedor**
+docker run --rm chimpanzini
 
+![imagen](https://github.com/user-attachments/assets/26e6957b-2ba8-434f-a960-89f73d74df9a)
+
+> ## Despliegue funcional ⚠️
+
+![imagen](https://github.com/user-attachments/assets/51008b9b-507e-4db6-9d48-019031199167)
